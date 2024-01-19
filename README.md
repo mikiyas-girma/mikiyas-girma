@@ -1,15 +1,4 @@
 ### Hi there 👋
-## Introduction
-
-I am a BSc in Software Engineering student and also pursuing a software engineering program given by ALX Africa in collaboration with Holberton School. I have a strong work ethic and effective time management skills. I am always eager to learn new things and passionate about using technology to address community issues. I believe that my skills, commitment, and passion can make a positive impact on the tech landscape.
-
-## Experience
-
-As part of the community-based training program (CBTP) education given in Jimma University, I had the opportunity to work with my team members on developing a full-stack web application. This application eases activities related to buying, selling, or renting properties and also helps users manage their own properties.
-
-## Interest
-
-I am deeply interested in the field of AI and data science.
 <!--
 **mikiyas-girma/mikiyas-girma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
