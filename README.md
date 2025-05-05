@@ -8,10 +8,9 @@
 - 👨‍💻 my projects are available at [https://github.com/mikiyas-girma](https://github.com/mikiyas-girma)
 
 - 📫 How to reach me **mikiyasgirmaet@gmail.com**
-- Click here to [Send email](mailto:mikiyasgirmaet@gmail.com?subject=[GitHub]%20Contacting%20from%20github)
+- Click here to [Send email](mailto:mikiyasgirmaet@gmail.com?subject=[GitHub]%20Contacting%20from%20github) 
 
-# - 🔗 Here is my website [https://mikegirma.tech](https://mikegirma.tech)
-
+<!--- 🔗 Here is my website [https://mikegirma.tech](https://mikegirma.tech) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
